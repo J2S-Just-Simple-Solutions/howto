@@ -6,3 +6,4 @@ Projet de test pour apprendre à utiliser Github
 * Hotfix 0.1.1 OK.
 
 L'idée est de développer un éditeur de workflow.
+On peut utiliser une librairie existante…
