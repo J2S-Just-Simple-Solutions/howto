@@ -14,3 +14,8 @@ On peut utiliser une librairie existante…
 
 HB Et un test 4 sur la dev
 HB test5 sur nouvelle branche (normalement)
+
+Une fois le développement de l'éditeur de workflow terminé et testé:
+ 
+ 1. il faudra merger la branche feature-workflow-editor avec la branche develop,
+ 2. supprimer la branche feature-workflow-editor.
