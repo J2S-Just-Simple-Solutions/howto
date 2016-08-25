@@ -12,4 +12,3 @@ Bon pour la 1.1
 
 Ajout HB
 Ajout HB2
-Ajout HB3
