@@ -9,5 +9,3 @@ L'idée est de développer un éditeur de workflow.
 On peut utiliser une librairie existante…
 
 Bon pour la 1.1
-
-Ajout HB
