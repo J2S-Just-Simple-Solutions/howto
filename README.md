@@ -11,3 +11,9 @@ Bon pour la 1.1
 
 Ajout HB
 Ajout HB2
+On peut utiliser une librairie existante…
+
+
+
+HB Et un test 4 sur la dev
+HB test5 sur nouvelle branche (normalement)
